@@ -6,6 +6,10 @@ This is a simple calculator web app built using HTML, CSS, and JavaScript. The a
 
 To use the calculator, open the `calculator.html` file in your web browser. The app provides a user-friendly interface with a text input box to display the input and results. Below the input box, you will find the calculator buttons for numbers and operators.
 
+## Images
+
+![Screenshot 2023-08-27 105835](https://github.com/JILSPATEL/calculator/assets/100358865/0632f62e-42ea-481c-be6e-31d1caac71c2)
+
 ### Calculator Buttons
 
 - Numbers: Buttons labeled with digits 0-9 represent the respective numeric values.
